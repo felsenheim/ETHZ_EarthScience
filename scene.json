@@ -2,7 +2,7 @@
     "scene": {
       "assets": {
         "myGlbModel": {
-          "type": "glb",
+          "type": "gltf",
           "url": "https://3d-api.si.edu/content/document/07a4621e-4c5c-4e3d-b376-12eb2c3c3c58/2016_126_001-RedStarFleetUniformLtUhura-RENDER_scaled-20k-thumb.glb"
         }
       },
