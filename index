@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ETHZ EarthScience</title>
+  <style>
+    /* Basic styling for the header */
+    header {
+      background-color: #f2f2f2;
+      padding: 20px;
+      text-align: center;
+      font-family: Arial, sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>ETHZ_EarthScience</h1>
+  </header>
+  <main>
+    <p>Welcome to the ETHZ EarthScience website!</p>
+  </main>
+</body>
+</html>
